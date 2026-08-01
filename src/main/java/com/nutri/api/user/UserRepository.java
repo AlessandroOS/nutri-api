@@ -1,4 +1,4 @@
-package com.nutri_api.user;
+package com.nutri.api.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
