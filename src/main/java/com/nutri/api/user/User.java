@@ -1,4 +1,4 @@
-package com.nutri_api.user;
+package com.nutri.api.user;
 
 import jakarta.persistence.*;
 import lombok.*;
